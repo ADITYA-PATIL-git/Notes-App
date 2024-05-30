@@ -1,6 +1,6 @@
 # notes_app
 
-A new Flutter project.
+developed a minimalistic notes manager app allowing users to create and manage their tasks
 
 ## Getting Started
 
